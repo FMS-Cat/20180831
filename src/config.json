@@ -1,0 +1,8 @@
+{
+  "fps": 50,
+  "resolution": [ 400, 400 ],
+  "reflectionNum": 128,
+  "reflectionPerFrame": 2,
+  "frames": 150,
+  "seed": 1145141919810
+}
